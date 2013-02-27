@@ -1,0 +1,3 @@
+<div>
+    True if the configured project has changes when polled, or has not built.
+</div>
